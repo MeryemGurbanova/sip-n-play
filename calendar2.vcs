@@ -1,0 +1,196 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Board Game Cafe//NONSGML Events//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20240707T110000
+DTEND;TZID=America/New_York:20240707T140000
+SUMMARY:Open Gaming
+DESCRIPTION:Enjoy open gaming with our collection of over 500 board games!
+LOCATION:Board Game Cafe, 123 Main St, New York, NY 10001
+COLOR:#FF5733
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20240707T150000
+DTEND;TZID=America/New_York:20240707T180000
+SUMMARY:Afternoon Delights
+DESCRIPTION:Join us for an afternoon of fun and social gaming sessions.
+LOCATION:Board Game Cafe, 123 Main St, New York, NY 10001
+COLOR:#338DFF
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20240707T190000
+DTEND;TZID=America/New_York:20240707T220000
+SUMMARY:Trivia Night
+DESCRIPTION:Test your knowledge and win prizes at our trivia night!
+LOCATION:Board Game Cafe, 123 Main St, New York, NY 10001
+COLOR:#33FF8D
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20240708T110000
+DTEND;TZID=America/New_York:20240708T140000
+SUMMARY:Family Game Day
+DESCRIPTION:Bring the whole family for a day of board games and fun activities.
+LOCATION:Board Game Cafe, 123 Main St, New York, NY 10001
+COLOR:#FF33E6
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20240708T150000
+DTEND;TZID=America/New_York:20240708T180000
+SUMMARY:Game Strategy Workshop
+DESCRIPTION:Learn advanced game strategies with expert gamers.
+LOCATION:Board Game Cafe, 123 Main St, New York, NY 10001
+COLOR:#FF5733
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20240708T190000
+DTEND;TZID=America/New_York:20240708T220000
+SUMMARY:Game Designer Meetup
+DESCRIPTION:Meet game designers and discuss the latest in game design trends.
+LOCATION:Board Game Cafe, 123 Main St, New York, NY 10001
+COLOR:#338DFF
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20240709T110000
+DTEND;TZID=America/New_York:20240709T140000
+SUMMARY:Open Gaming
+DESCRIPTION:Enjoy open gaming with our collection of over 500 board games!
+LOCATION:Board Game Cafe, 123 Main St, New York, NY 10001
+COLOR:#33FF8D
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20240709T150000
+DTEND;TZID=America/New_York:20240709T180000
+SUMMARY:Sunday Funday
+DESCRIPTION:Relax and enjoy a casual Sunday of board gaming with friends.
+LOCATION:Board Game Cafe, 123 Main St, New York, NY 10001
+COLOR:#FF33E6
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20240709T190000
+DTEND;TZID=America/New_York:20240709T220000
+SUMMARY:Game Master Session
+DESCRIPTION:Join our expert Game Masters for a session of epic board game adventures.
+LOCATION:Board Game Cafe, 123 Main St, New York, NY 10001
+COLOR:#FF5733
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20240710T110000
+DTEND;TZID=America/New_York:20240710T140000
+SUMMARY:Midweek Madness
+DESCRIPTION:Escape the midweek blues with some exciting board game action!
+LOCATION:Board Game Cafe, 123 Main St, New York, NY 10001
+COLOR:#338DFF
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20240710T150000
+DTEND;TZID=America/New_York:20240710T180000
+SUMMARY:Board Game Basics
+DESCRIPTION:Learn the basics of popular board games with our friendly staff.
+LOCATION:Board Game Cafe, 123 Main St, New York, NY 10001
+COLOR:#33FF8D
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20240710T190000
+DTEND;TZID=America/New_York:20240710T220000
+SUMMARY:Board Game Social
+DESCRIPTION:Connect with fellow board game enthusiasts in a relaxed social setting.
+LOCATION:Board Game Cafe, 123 Main St, New York, NY 10001
+COLOR:#FF33E6
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20240711T110000
+DTEND;TZID=America/New_York:20240711T140000
+SUMMARY:Open Gaming
+DESCRIPTION:Enjoy open gaming with our collection of over 500 board games!
+LOCATION:Board Game Cafe, 123 Main St, New York, NY 10001
+COLOR:#FF5733
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20240711T150000
+DTEND;TZID=America/New_York:20240711T180000
+SUMMARY:Game Design Workshop
+DESCRIPTION:Explore the world of game design with hands-on workshops and activities.
+LOCATION:Board Game Cafe, 123 Main St, New York, NY 10001
+COLOR:#338DFF
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20240711T190000
+DTEND;TZID=America/New_York:20240711T220000
+SUMMARY:Game Night
+DESCRIPTION:Join us for a fun-filled evening of board games and laughter!
+LOCATION:Board Game Cafe, 123 Main St, New York, NY 10001
+COLOR:#33FF8D
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20240712T110000
+DTEND;TZID=America/New_York:20240712T140000
+SUMMARY:Family Game Day
+DESCRIPTION:Bring the whole family for a day of board games and fun activities.
+LOCATION:Board Game Cafe, 123 Main St, New York, NY 10001
+COLOR:#FF33E6
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20240712T150000
+DTEND;TZID=America/New_York:20240712T180000
+SUMMARY:Afternoon Gaming
+DESCRIPTION:Enjoy an afternoon of casual gaming with friends and family.
+LOCATION:Board Game Cafe, 123 Main St, New York, NY 10001
+COLOR:#FF5733
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20240712T190000
+DTEND;TZID=America/New_York:20240712T220000
+SUMMARY:Game Strategy Night
+DESCRIPTION:Sharpen your game strategy skills in friendly competition.
+LOCATION:Board Game Cafe, 123 Main St, New York, NY 10001
+COLOR:#338DFF
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20240713T110000
+DTEND;TZID=America/New_York:20240713T140000
+SUMMARY:Open Gaming
+DESCRIPTION:Enjoy open gaming with our collection of over 500 board games!
+LOCATION:Board Game Cafe, 123 Main St, New York, NY 10001
+COLOR:#33FF8D
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20240713T150000
+DTEND;TZID=America/New_York:20240713T180000
+SUMMARY:Game Master Session
+DESCRIPTION:Join our expert Game Masters for a session of epic board game adventures.
+LOCATION:Board Game Cafe, 123 Main St, New York, NY 10001
+COLOR:#FF33E6
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20240713T190000
+DTEND;TZID=America/New_York:20240713T220000
+SUMMARY:Board Game Social
+DESCRIPTION:Connect with fellow board game enthusiasts in a relaxed social setting.
+LOCATION:Board Game Cafe, 123 Main St, New York, NY 10001
+COLOR:#FF5733
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description"
+        content="Sip & Play: Enjoy board games and delicious beverages with friends and family at Park Slope’s first board game cafe.">
+    <meta name="keywords" content="Sip & Play, board games, cafe, coffee, tea, snacks, Park Slope, Brooklyn, NYC">
+    <meta name="author" content="Sip & Play NYC">
+    <meta property="og:title" content="Sip & Play - Board Game Cafe">
+    <meta property="og:description"
+        content="Enjoy board games and delicious beverages with friends and family at Park Slope’s first board game cafe.">
+    <meta property="og:image" content="./public/3683c8_7e737a4c25944344a7d178b7f49cb270~mv2.jpg">
+    <meta property="og:url" content="https://www.sipnplaynyc.com">
+    <link rel="icon"
+        href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🐢</text></svg>" />
+    <title>Sip & Play</title>
+    <link rel="stylesheet" type="text/css" href="style.css" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css"
+        integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap"
+        rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Roboto+Slab:wght@100..900&display=swap"
+        rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Fredericka+the+Great&display=swap" rel="stylesheet">
+    <script src="https://kit.fontawesome.com/b273b1ae7f.js" crossorigin="anonymous"></script>
+    <script type="module" src="https://unpkg.com/@google/model-viewer/dist/model-viewer.js"></script>
+</head>
+
+<body style="font-family: 'Lato', sans-serif; background-color: #1a1818; color: #f9f9f9;">
+    <script type="module" src="menu.js"></script>
+    <div class="container">
+        <div class="row">
+            <div id="NavBar" class="col-12" style="background-color: #f9f9f9;">
+                <a href="index.html"><img src="./sipnplay.png" alt="logo_sip_and_play"
+                        style="padding: 0; margin: 0; height: 25px; width: 30px;"></a>
+                <a href="index.html">Home</a>
+                <a href="menu.html">Menu</a>
+                <a href="https://squareup.com/gift/SWP5P3242C38Q/order" target="_blank">Gift Cards</a>
+                <a href="https://www.sipnplaynyc.com/general-5" target="_blank">MTG</a>
+                <a href="https://www.facebook.com/sipnplaynyc/" target="_blank"><span class="fa fa-facebook"></span></a>
+                <a href="https://www.instagram.com/sipnplaynyc/?hl=en" target="_blank"><span
+                        class="fa fa-instagram"></span></a>
+            </div>
+        </div>
+        <header id="main-content1" class="row" style="background-color: #f9f9f9;">
+            <div class="col-md-2 d-flex align-items-center justify-content-center">
+                <span class="fa fa-long-arrow-left" id="prev" aria-hidden="true"
+                    style="font-size: 40px; color: rgb(148, 185, 115);"></span>
+            </div>
+            <div style="text-align: center;" id="canvas-container" class="col-md-8">
+                <h2 style="font-family: 'Roboto Slab', serif;">Coffee</h2>
+                <canvas></canvas>
+            </div>
+            <div class="col-md-2 d-flex align-items-center justify-content-center">
+                <span class="fa fa-long-arrow-right" id="next" aria-hidden="true"
+                    style="font-size: 40px; color: rgb(148, 185, 115);"></span>
+            </div>
+        </header>
+        <div id="secondary-content1" class="row">
+            <div class="col-md-6" id="menu-left" style="padding-left: 3em;"></div>
+            <div class="col-md-6" id="menu-right"></div>
+        </div>
+    </div>
+</body>
+
+</html>
