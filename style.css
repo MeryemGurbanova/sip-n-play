@@ -78,7 +78,9 @@ button:focus-visible {
   outline: 9px auto -webkit-focus-ring-color;
 }
 
-
+.col-md-6{
+  padding-left: 3em;
+}
 #NavBar {
   display: flex;
   background: rgba(255, 255, 255, 0.15);
@@ -87,20 +89,18 @@ button:focus-visible {
   -webkit-backdrop-filter: blur(18px);
   border: 1px solid rgba(255, 255, 255, 0.18);
   border-radius: 3rem;
-  /* padding: 0.3rem 1.5rem; */
   z-index: 10;
-  /* color: whitesmoke; */
   justify-content: center;
 }
 
 #NavBar a {
-  /* color: white; */
   text-align: center;
   padding: 15px;
   float: left;
   display: block;
   text-decoration: none;
 }
+
 #NavBar a:hover{
   color: rgb(148, 185, 115); ;
 }
@@ -110,7 +110,6 @@ button:focus-visible {
   top: 20px;
   width: 72vw;
 }
-
 
 #canvas-container {
   position: relative;
@@ -123,8 +122,6 @@ canvas {
   height: 100%;
 }
 
-
-
 header {
   padding: 1em 0 12em 0;
 }
@@ -136,7 +133,6 @@ header {
   box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
   padding: 1em 0 12em 0;
 }
-
 
 #main-content {
   margin: 0;
@@ -159,7 +155,6 @@ header {
   border: 5px;
 }
 
-
 .vertical-line {
   position: absolute;
   top: 0;
@@ -170,7 +165,6 @@ header {
   transform: translateX(-100%);
 }
 h5{
-  /* color:  #edffec; */
   font-weight: bold;
 }
 .icon {
@@ -192,8 +186,6 @@ i {
   position: relative;
 }
 
-
-
 .icon {
   position: absolute;
   left: 50%;
@@ -208,7 +200,6 @@ i {
   font-size: 1.4em;
 }
 
-
 #secondary-content {
   margin: 0;
   margin-bottom: 3rem;
@@ -220,7 +211,6 @@ i {
   box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
   /* font-size: 25px; */
 }
-
 
 #background-content {
   margin: 0;
@@ -280,8 +270,6 @@ i {
   object-fit: cover; 
   border-radius: 5px; 
 }
-
-
 
 .instagram-embed {
   text-align: center; 

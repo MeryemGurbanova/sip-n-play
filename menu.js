@@ -120,7 +120,6 @@ const menus = [
     ]
 ];
 
-
 const prevButton = document.querySelector('span#prev');
 const nextButton = document.querySelector('span#next');
 const h2Heading = document.querySelector('h2');
